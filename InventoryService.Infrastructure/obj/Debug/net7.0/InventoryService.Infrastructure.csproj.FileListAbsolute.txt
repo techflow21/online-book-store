@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\bin\Debug\net7.0\InventoryService.Infrastructure.deps.json
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\bin\Debug\net7.0\InventoryService.Infrastructure.dll
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\bin\Debug\net7.0\InventoryService.Infrastructure.pdb
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\bin\Debug\net7.0\InventoryService.Core.dll
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\bin\Debug\net7.0\InventoryService.Core.pdb
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\obj\Debug\net7.0\InventoryService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\obj\Debug\net7.0\InventoryService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\obj\Debug\net7.0\InventoryService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\obj\Debug\net7.0\InventoryService.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\obj\Debug\net7.0\InventoryService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\obj\Debug\net7.0\InventoryService.Infrastructure.csproj.CopyComplete
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\obj\Debug\net7.0\InventoryService.Infrastructure.dll
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\obj\Debug\net7.0\refint\InventoryService.Infrastructure.dll
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\obj\Debug\net7.0\InventoryService.Infrastructure.pdb
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\obj\Debug\net7.0\ref\InventoryService.Infrastructure.dll
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\bin\Debug\net7.0\InventoryService.Infrastructure.runtimeconfig.json
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Infrastructure\obj\Debug\net7.0\InventoryService.Infrastructure.genruntimeconfig.cache

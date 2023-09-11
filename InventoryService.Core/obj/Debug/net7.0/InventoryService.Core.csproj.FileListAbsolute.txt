@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Core\bin\Debug\net7.0\InventoryService.Core.deps.json
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Core\bin\Debug\net7.0\InventoryService.Core.dll
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Core\bin\Debug\net7.0\InventoryService.Core.pdb
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Core\obj\Debug\net7.0\InventoryService.Core.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Core\obj\Debug\net7.0\InventoryService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Core\obj\Debug\net7.0\InventoryService.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Core\obj\Debug\net7.0\InventoryService.Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Core\obj\Debug\net7.0\InventoryService.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Core\obj\Debug\net7.0\InventoryService.Core.dll
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Core\obj\Debug\net7.0\refint\InventoryService.Core.dll
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Core\obj\Debug\net7.0\InventoryService.Core.pdb
+C:\Users\HP\Desktop\OnlineBookStore\InventoryService.Core\obj\Debug\net7.0\ref\InventoryService.Core.dll
