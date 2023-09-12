@@ -13,3 +13,25 @@ Containerization with Docker
 Testing
 Conclusion
 
+# 1. Introduction
+Microservices architecture is an approach to building scalable and maintainable software systems by breaking them down into smaller, loosely coupled services. This documentation focuses on implementing two microservices: OrderService responsible for creating orders, and InventoryService responsible for managing inventory based on orders received from OrderService.
+
+# 2. Architecture Overview
+Microservices Architecture
+
+OrderService: Accepts and processes order requests, then publishes order messages to the RabbitMQ queue.
+RabbitMQ: Acts as a message broker for communication between services.
+InventoryService: Subscribes to order messages, processes them, and updates the inventory in the MSSQL database.
+
+# 3. Pre-Requisites
+.NET Core SDK (for developing .NET Core applications)
+Docker (for containerization)
+RabbitMQ (for message queuing)
+MSSQL Server (for database storage)
+Visual Studio 2022 code editor
+
+# 4. Microservice Implementation
+Order Service and Inventory Services were created with ASP.NET Core Web API.
+
+
+
