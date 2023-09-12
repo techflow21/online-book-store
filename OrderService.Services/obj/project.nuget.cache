@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lgrlg1VP4EBdjhEjKXjNd4wfnyzLhVbtLGBp1g8ZpNiigUNMG1ocYGpG9H0Gb1ECo8uyBqAT5IIlI27yU0Lfcg==",
+  "dgSpecHash": "IX8RYR8T+fo4QqwNkFuKI6NCrDdNQxZOH7Ujz+kVf7Luisjb9g5ZkX8P5R5VIfkfXMR+A2jxjX+6DhSKVKkFyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Services\\OrderService.Services.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Services\\OrderService.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

@@ -3394,11 +3394,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Services\\InventoryService.Services.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Services\\InventoryService.Services.csproj",
       "projectName": "InventoryService.Services",
-      "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Services\\InventoryService.Services.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Services\\InventoryService.Services.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Services\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3415,11 +3415,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj"
+            "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj"
+            "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj"
             }
           }
         }

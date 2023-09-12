@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Core\\InventoryService.Core.csproj": {}
+    "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Core\\InventoryService.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Core\\InventoryService.Core.csproj": {
+    "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Core\\InventoryService.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Core\\InventoryService.Core.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Core\\InventoryService.Core.csproj",
         "projectName": "InventoryService.Core",
-        "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Core\\InventoryService.Core.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Core\\InventoryService.Core.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Core\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

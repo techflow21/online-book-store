@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "emirBGLxmYXa75eW5MxJAjGNNWZNeNPcI0Udj9t98xMXLWs8ZHoWRyNO+7cotx+fqzckngxFd9FreqfaQu3H/A==",
+  "dgSpecHash": "P6exJzDYJMOP5Omd/d2lq4Ac7tbrhSCm5iu0mr4lm30HOiDd4sPqH13bWKmOuUIx5HnsxVg/AzMoxKkl+0SVvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Core\\OrderService.Core.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Core\\OrderService.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

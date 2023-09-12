@@ -3394,11 +3394,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Services\\OrderService.Services.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Services\\OrderService.Services.csproj",
       "projectName": "OrderService.Services",
-      "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Services\\OrderService.Services.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Services\\OrderService.Services.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Services\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3415,11 +3415,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj"
+            "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj"
+            "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj"
             }
           }
         }

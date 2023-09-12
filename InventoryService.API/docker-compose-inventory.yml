@@ -1,0 +1,11 @@
+﻿version: '3'
+services:
+  inventoryservice:
+    build:
+      context: ./InventoryService.API
+      dockerfile: Dockerfile
+    ports:
+      - "5001:80"
+    environment:
+      - RABBITMQ_CONNECTIONSTRING=amqp://localhost
+      - MSSQL_CONNECTIONSTRING=Server=(localdb)\\mssqllocaldb;Database=BookStoreInventoryService_DB;Integrated Security=True;MultipleActiveResultSets=True

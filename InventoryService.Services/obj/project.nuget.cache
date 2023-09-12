@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S3jyUPDrv8EH0ur05vymzDf2EADothx0CYc9yhI/1BMKA5nKbwBjCThvlg3Wr2bIOTRj7b/MEskq0k+AQ/LDtg==",
+  "dgSpecHash": "oVr4/3ujSljm2jQ34DqhqCza+6N3KwP4vbQomfTeO/aE1j0nMYIzqlLNwrzxNpSN1ZgEqARXIRdNWxEBdJtaDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Services\\InventoryService.Services.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Services\\InventoryService.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

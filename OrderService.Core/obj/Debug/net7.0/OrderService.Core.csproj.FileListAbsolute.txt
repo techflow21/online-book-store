@@ -10,3 +10,15 @@ C:\Users\HP\Desktop\OnlineBookStore\OrderService.Core\obj\Debug\net7.0\OrderServ
 C:\Users\HP\Desktop\OnlineBookStore\OrderService.Core\obj\Debug\net7.0\refint\OrderService.Core.dll
 C:\Users\HP\Desktop\OnlineBookStore\OrderService.Core\obj\Debug\net7.0\OrderService.Core.pdb
 C:\Users\HP\Desktop\OnlineBookStore\OrderService.Core\obj\Debug\net7.0\ref\OrderService.Core.dll
+C:\Users\HP\Desktop\ProjStore\OrderService.Core\bin\Debug\net7.0\OrderService.Core.deps.json
+C:\Users\HP\Desktop\ProjStore\OrderService.Core\bin\Debug\net7.0\OrderService.Core.dll
+C:\Users\HP\Desktop\ProjStore\OrderService.Core\bin\Debug\net7.0\OrderService.Core.pdb
+C:\Users\HP\Desktop\ProjStore\OrderService.Core\obj\Debug\net7.0\OrderService.Core.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ProjStore\OrderService.Core\obj\Debug\net7.0\OrderService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ProjStore\OrderService.Core\obj\Debug\net7.0\OrderService.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ProjStore\OrderService.Core\obj\Debug\net7.0\OrderService.Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\ProjStore\OrderService.Core\obj\Debug\net7.0\OrderService.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ProjStore\OrderService.Core\obj\Debug\net7.0\OrderService.Core.dll
+C:\Users\HP\Desktop\ProjStore\OrderService.Core\obj\Debug\net7.0\refint\OrderService.Core.dll
+C:\Users\HP\Desktop\ProjStore\OrderService.Core\obj\Debug\net7.0\OrderService.Core.pdb
+C:\Users\HP\Desktop\ProjStore\OrderService.Core\obj\Debug\net7.0\ref\OrderService.Core.dll

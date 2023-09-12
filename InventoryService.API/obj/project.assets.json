@@ -4392,11 +4392,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.API\\InventoryService.API.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.API\\InventoryService.API.csproj",
       "projectName": "InventoryService.API",
-      "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.API\\InventoryService.API.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.API\\InventoryService.API.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.API\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4414,11 +4414,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Services\\InventoryService.Services.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Services\\InventoryService.Services.csproj"
+            "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Services\\InventoryService.Services.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Services\\InventoryService.Services.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj"
+            "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj"
             }
           }
         }

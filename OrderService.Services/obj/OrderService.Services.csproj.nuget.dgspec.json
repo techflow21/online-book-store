@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Services\\OrderService.Services.csproj": {}
+    "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Services\\OrderService.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Core\\OrderService.Core.csproj": {
+    "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Core\\OrderService.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Core\\OrderService.Core.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Core\\OrderService.Core.csproj",
         "projectName": "OrderService.Core",
-        "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Core\\OrderService.Core.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Core\\OrderService.Core.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Core\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj": {
+    "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
         "projectName": "OrderService.Infrastructure",
-        "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Core\\OrderService.Core.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Core\\OrderService.Core.csproj"
+              "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Core\\OrderService.Core.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Core\\OrderService.Core.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Services\\OrderService.Services.csproj": {
+    "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Services\\OrderService.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Services\\OrderService.Services.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Services\\OrderService.Services.csproj",
         "projectName": "OrderService.Services",
-        "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Services\\OrderService.Services.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Services\\OrderService.Services.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Services\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -168,11 +168,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj"
+              "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj"
               },
-              "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj"
+              "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj"
               }
             }
           }
@@ -212,14 +212,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj": {
+    "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj",
         "projectName": "RabbitMQSystem",
-        "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

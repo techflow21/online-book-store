@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KWjR1IRVHSdLGGVGU6bqmZ0Ay2kRq1OHSDArPgXCg5cBv+wDkX4xz6SQX/CywmGX+m4RYAY3eoXQDn6iiXRsPQ==",
+  "dgSpecHash": "8o0QNhM5ZnCsi29DmlK3hBS6vbOcMcKBKlaS/GVhF1vZbFwG+C9nBDM1Na6hNSfuwMDe5jp3HfzQ2wKwj7p2bQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",

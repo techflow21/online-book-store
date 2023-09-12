@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Services\\InventoryService.Services.csproj": {}
+    "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Services\\InventoryService.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Core\\InventoryService.Core.csproj": {
+    "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Core\\InventoryService.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Core\\InventoryService.Core.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Core\\InventoryService.Core.csproj",
         "projectName": "InventoryService.Core",
-        "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Core\\InventoryService.Core.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Core\\InventoryService.Core.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Core\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj": {
+    "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj",
         "projectName": "InventoryService.Infrastructure",
-        "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Core\\InventoryService.Core.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Core\\InventoryService.Core.csproj"
+              "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Core\\InventoryService.Core.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Core\\InventoryService.Core.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Services\\InventoryService.Services.csproj": {
+    "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Services\\InventoryService.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Services\\InventoryService.Services.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Services\\InventoryService.Services.csproj",
         "projectName": "InventoryService.Services",
-        "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Services\\InventoryService.Services.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Services\\InventoryService.Services.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Services\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -168,11 +168,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj"
+              "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj"
               },
-              "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj"
+              "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj"
               }
             }
           }
@@ -212,14 +212,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj": {
+    "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj",
         "projectName": "RabbitMQSystem",
-        "projectPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\RabbitMQSystem.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\RabbitMQSystem.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\OnlineBookStore\\RabbitMQSystem\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\ProjStore\\RabbitMQSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
