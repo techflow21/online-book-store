@@ -24,11 +24,11 @@ RabbitMQ: Acts as a message broker for communication between services.
 InventoryService: Subscribes to order messages, processes them, and updates the inventory in the MSSQL database.
 
 # 3. Pre-Requisites
-.NET Core SDK (for developing .NET Core applications)
-Docker (for containerization)
-RabbitMQ (for message queuing)
-MSSQL Server (for database storage)
-Visual Studio 2022 code editor
+- .NET Core SDK (for developing .NET Core applications)
+- Docker (for containerization)
+- RabbitMQ (for message queuing)
+- MSSQL Server (for database storage)
+- Visual Studio 2022 code editor
 
 # 4. Microservice Implementation
 Order Service and Inventory Services were created with ASP.NET Core Web API.
