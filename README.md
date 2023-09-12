@@ -43,8 +43,7 @@ Created Dockerfiles for both services to containerize them.
 Use Docker Compose to manage the containers and define the required environment variables, such as connection strings for RabbitMQ and MSSQL.
 
 # 7. Testing / Run
-Build and run the Docker containers using ```
-docker-compose up.
+Build and run the Docker containers using ``` docker-compose up.
 ```
 Access the OrderService API at http://localhost:5000/api/orders.
 Create an order, and it will be published to RabbitMQ.
