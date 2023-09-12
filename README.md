@@ -1,7 +1,7 @@
-# Online Book Store Implementation with RabbitMQ and Docker.
+# Online Book Store with RabbitMQ and Docker.
 
 # Design Decision
-In this documentation, my design decision is to implement two microservices, namely InventoryService and OrderService, using the microservices architecture. These services will communicate with each other via RabbitMQ. When an order request is created. The publisher in this case OrderService publishes a message to the RabbitMQ System which then create an order queue. This order message will be received, processed, and stored in an MSSQL database by the subscriber in this case InventoryService. Additionally, Docker will be used to containerize and run the application.
+My decision is to implement a microservice architectured web app is suitable for real-world applications. This architecture enables the development of scalable and maintainable software systems that can handle complex tasks effectively.
 
 # Table of Contents
 - Introduction
@@ -42,3 +42,14 @@ Ensured that both OrderService and InventoryService are configured to connect to
 Created Dockerfiles for both services to containerize them.
 Use Docker Compose to manage the containers and define the required environment variables, such as connection strings for RabbitMQ and MSSQL.
 
+# 7. Testing / Run
+Build and run the Docker containers using ```
+docker-compose up.
+```
+Access the OrderService API at http://localhost:5000/api/orders.
+Create an order, and it will be published to RabbitMQ.
+InventoryService will receive the order message, process it, and store it in the MSSQL database.
+Access the InventoryService API at http://localhost:5001/api/inventory to verify the stored orders.
+
+# 8. Conclusion
+The Online Book Store was completed using the microservices architecture with RabbitMQ for communication. Docker containerization allows for easy deployment and scalability, making it suitable for real-world applications.
