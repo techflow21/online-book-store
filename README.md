@@ -31,7 +31,7 @@ InventoryService: Subscribes to order messages, processes them, and updates the 
 - Visual Studio 2022 code editor
 
 # 4. Microservice Implementation
-Order Service and Inventory Services were created with ASP.NET Core Web API.
+Order Service and Inventory Services were created with ASP.NET Core Web API version 7.
 
 # 5. Setting Up RabbitMQ
 Install and configure RabbitMQ as message broker.
