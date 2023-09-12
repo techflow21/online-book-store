@@ -33,5 +33,12 @@ Visual Studio 2022 code editor
 # 4. Microservice Implementation
 Order Service and Inventory Services were created with ASP.NET Core Web API.
 
+# 5. Setting Up RabbitMQ
+Install and configure RabbitMQ as message broker.
+Created a queue named "orders" for communication between services.
+Ensured that both OrderService and InventoryService are configured to connect to RabbitMQ.
 
+# 6. Containerization with Docker
+Created Dockerfiles for both services to containerize them.
+Use Docker Compose to manage the containers and define the required environment variables, such as connection strings for RabbitMQ and MSSQL.
 
