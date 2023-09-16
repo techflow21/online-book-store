@@ -1,6 +1,5 @@
 # Online Book Store with RabbitMQ and Docker.
 
-
 # Design Decision
 My decision is to implement a microservice architectured web app is suitable for real-world applications. This architecture enables the development of scalable and maintainable software systems that can handle complex tasks effectively.
 
